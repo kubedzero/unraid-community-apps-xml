@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Containers>
-<PluginURL>https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.plg</PluginURL>
+<PluginURL>https://raw.githubusercontent.com/kubedzero/unraid-snmp/main/snmp.plg</PluginURL>
 <PluginAuthor>KZ</PluginAuthor>
 <Beta>False</Beta>
 <Category>Tools:System Plugins:</Category>
@@ -9,5 +9,5 @@
 Adds Slackware's SNMP package to unRAID. This allows users to get CPU utilization, RAM usage, disk activity, and more via the SNMP protocol. Also includes HDD- and unRAID share-related scripts created by Coppit.
 </Description>
 <Support>https://forums.unraid.net/topic/39339-plug-in-snmp/</Support>
-<Icon>https://raw.githubusercontent.com/kubedzero/unraid-snmp/master/snmp.png</Icon>
+<Icon>https://raw.githubusercontent.com/kubedzero/unraid-snmp/main/snmp.png</Icon>
 </Containers>
