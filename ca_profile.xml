@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Maintainer>
+  <Icon>https://raw.githubusercontent.com/kubedzero/unraid-community-apps-xml/main/GitHubAvatar.png</Icon>
+  <Profile>A curious Unraid plugin maintainer. Avoids unnecessary plugins.</Profile>
+  <Forum>https://forums.unraid.net/profile/12026-kubed_zero/</Forum> 
+  <!-- <DonateLink>paypal.com</DonateLink> -->
+  <!-- <DonateText>If my work is appreciated, please consider donating.</DonateText> -->
+  <!-- <WebPage>webpage.com</WebPage> -->
+  <!-- <Facebook>facebook.com</Facebook> -->
+  <!-- <Reddit>reddit.com</Reddit> -->
+  <!-- <Discord>discord.com</Discord> -->
+  <!-- <Twitter>twitter.com</Twitter> -->
+</Maintainer>
